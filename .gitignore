@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CF-Sample-API/CF-Sample-API/CF-Sample-API/obj
+/CF-Sample-API/CF-Sample-API/.vs/CF-Sample-API
+/CF-Sample-API/CF-Sample-API/CF-Sample-API/bin/Debug/net8.0
